@@ -1,0 +1,6 @@
+{
+  "name": "Rozgar Pakistan",
+  "description": "A modern, full-stack job portal for Pakistan featuring AI resume analysis, employer applicant tracking, localized JazzCash/Easypaisa payments, and separate dashboards for Job Seekers, Employers, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
